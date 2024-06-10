@@ -1,4 +1,8 @@
-## **Hi, I'm Thushani Vasanthan** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="27px" height="27px" alt="hi">
+<div align="center" >
+  
+  # **Hi, I'm Thushani Vasanthan** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="27px" height="27px" alt="hi">
+</div>
+<br/>
 
 I'm a Full Stack Developer passionate about building innovative applications. Juggling between coding brilliance and tutorial recordings.
 
@@ -6,9 +10,9 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 
 - 🔭 I’m interested in full stack development, web applications, and cloud computing
 - 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
-- 📫 How to reach me: thushanivasanthan@gmail.com.
+- 📫 How to reach me: thushanivasanthan@gmail.com
 
-:mailbox: Reach me out!
+#### :mailbox: Reach me out!
 
 [![Thushani's LinkedIn](https://img.shields.io/badge/-Thushani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushanivasanthan/)&nbsp;&nbsp;[![Thushani's Mail](https://img.shields.io/badge/-Thushani-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thushanivasanthan@gmail.com)
 
@@ -46,7 +50,8 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 <br />
 
 <hr>
+  
+#### Resume: :paperclip: [Thushani Vasanthan_CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
 
-### Resume
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
+
 
