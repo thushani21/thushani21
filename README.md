@@ -13,7 +13,7 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 - 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
 - 📫 How to reach me: thushanivasanthan@gmail.com.
 &nbsp;
-
+&nbsp;
 ### Languages-Frameworks-Tools
 
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
