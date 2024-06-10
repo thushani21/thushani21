@@ -6,13 +6,13 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 
 [![Thushani's LinkedIn](https://img.shields.io/badge/-Thushani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushanivasanthan/)&nbsp;&nbsp;[![Thushani's Mail](https://img.shields.io/badge/-Thushani-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thushanivasanthan@gmail.com)
 
-<div align="center">
-  ### What I currently Do
-  
-  - 🔭 I’m interested in full stack development, web applications, and cloud computing
-  - 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
-  - 📫 How to reach me: thushanivasanthan@gmail.com.
-</div>
+
+**### What I currently Do**
+
+- 🔭 I’m interested in full stack development, web applications, and cloud computing
+- 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
+- 📫 How to reach me: thushanivasanthan@gmail.com.
+
 
 #### Top Technologies
 
