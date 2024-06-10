@@ -4,7 +4,8 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushanivasanthan/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thushanivasanthan@gmail.com)
+[![Thushani's LinkedIn](https://img.shields.io/badge/-Thushani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushanivasanthan/)[![Thushani's Mail](https://img.shields.io/badge/-Thushani-0e76a8?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thushanivasanthan@gmail.com)
+
 
 ### CoderOne Newsletter
 Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
