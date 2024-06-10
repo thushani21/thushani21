@@ -7,22 +7,11 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 [![Thushani's LinkedIn](https://img.shields.io/badge/-Thushani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thushanivasanthan/)&nbsp;&nbsp;[![Thushani's Mail](https://img.shields.io/badge/-Thushani-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thushanivasanthan@gmail.com)
 
 
-### CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
-
-👉 [Join Here](https://islemmaboud.com/join-newsletter)
-
-
-<!-- TODO: Add last video link -->
-
 ### What I currently Do
 
-- 🔭 I’m currently working at @Perigon
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🔭 I’m interested in full stack development, web applications, and cloud computing
+- 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
+- 📫 How to reach me: thushanivasanthan@gmail.com.
 
 #### Top Technologies
 
