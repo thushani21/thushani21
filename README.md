@@ -12,7 +12,7 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 - 🔭 I’m interested in full stack development, web applications, and cloud computing
 - 💡 Excited to dive into collaborative projects that offer hands-on experience across the full stack development spectrum!
 - 📫 How to reach me: thushanivasanthan@gmail.com.
-
+&nbsp;
 
 ### Languages-Frameworks-Tools
 
