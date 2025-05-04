@@ -51,7 +51,7 @@ I'm a Full Stack Developer passionate about building innovative applications. Ju
 
 <hr>
   
-### Resume: :paperclip: [Thushani Vasanthan_CV](https://github.com/thushani21/thushani21/blob/main/CVnew.pdf)
+### Resume: :paperclip: [Thushani Vasanthan_Resume](https://github.com/thushani21/thushani21/blob/main/CVnew.pdf)
 
 
 
